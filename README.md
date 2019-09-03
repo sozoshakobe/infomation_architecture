@@ -1,0 +1,2 @@
+# infomation_architecture
+情報アーキテクチャー授業用
